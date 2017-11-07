@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/colorlib/pen/rxddKy.
+Realización de una aplicación web en bottle que conecta con el servidor ORACLE tras autenticarse, y  muestra información almacenada en el mismo.
 
- Simple HTML5/CSS3 login form that also works as registration form. You can tweak this form further to use it as part of your web app, website or anything else. 
+Librería: cx_oracle
